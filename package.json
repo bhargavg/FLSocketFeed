@@ -1,0 +1,13 @@
+{
+  "name": "FLSocketFeed",
+  "version": "0.0.1",
+  "description": "A nodejs script that shows freelancer.com notification feed in terminal",
+  "main": "index.js",
+  "author": "Bhargav Gurlanka",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "ws": "^0.4.32",
+    "request": "^2.48.0",
+    "prompt": "^0.2.14"
+  }
+}
